@@ -1,0 +1,15 @@
+D:\CODE\WPF\CoCaRo\CoCaRo\bin\Debug\CoCaRo.exe.config
+D:\CODE\WPF\CoCaRo\CoCaRo\bin\Debug\CoCaRo.exe
+D:\CODE\WPF\CoCaRo\CoCaRo\bin\Debug\CoCaRo.pdb
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.csproj.AssemblyReference.cache
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\MainWindow.g.cs
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\App.g.cs
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo_MarkupCompile.cache
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo_MarkupCompile.lref
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\MainWindow.baml
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.g.resources
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.Properties.Resources.resources
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.csproj.GenerateResource.cache
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.csproj.CoreCompileInputs.cache
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.exe
+D:\CODE\WPF\CoCaRo\CoCaRo\obj\Debug\CoCaRo.pdb
